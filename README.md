@@ -1,8 +1,8 @@
 <H1 align="center">UwUTools</H1>
 
-**UwUTools is a apps launcher which gives you the ability of downloading apps in one place and also everything portable, which means you can download software withouth requiring admin privileges**
+**UwUTools is an application launcher that allows you to download and manage apps in one centralized location. It provides everything in a portable format, eliminating the need for administrative privileges.**
 
-**The tool can be used everywhere such as your own computer, a school computer, on your favourite cloud gaming services and much more**
+**This tool can be utilized on various devices, including personal computers, school computers, and cloud gaming services.**
 
 [![Join our Discord Server](https://img.shields.io/badge/Discord-Join%20our%20server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GmnFnC3VkN)
 
@@ -10,22 +10,20 @@
 
 <H1 align="center">Apps Section</H1>
 
-**Here you can download apps such as thorium, firefox, qbittorent, gimp and more ! in general the essentials that people want and need, the App Section also comes with the functionality of running any exe that you wish from the run button !**
+**In the Apps Section, you can download essential applications such as Thorium, Firefox, qBittorrent, GIMP, and more. This section also includes the functionality to run any executable file through the 'Run' button.**
 
-**If you have an app that isn't here, you can join our discord server and request an app there !**
+**If you need an application that is not listed, you can join our Discord server and request it there.**
 
 ![UwUTools_Prototype_toPicIBsxH](https://github.com/dpadGuy/UwUTools/assets/164203577/57b86dce-db2b-4a53-8f97-db211836ae58)
 
 <H1 align="center">Emulators Section</H1>
 
-**In the Emulators Section you will find emulators for xbox, playstation and nintendo consoles.**
+**The Emulators Section provides emulators for various gaming consoles, including Xbox, PlayStation, and Nintendo.**
 
 ![mspaint_Uxcxk7MJeu](https://github.com/dpadGuy/UwUTools/assets/164203577/859e1485-ffae-4126-95ec-86effbdb544e)
 
 <H1 align="center">Settings Section</H1>
 
-**In the settings menu you can enable or disable different optins as you please !**
+**In the Settings menu, you can enable or disable different options to suit your preferences.**
 
 ![UwUTools_Prototype_NdRYDQOs3u](https://github.com/dpadGuy/UwUTools/assets/164203577/00bc0bee-7bf1-4e3f-8e39-4c7a57145254)
-
-
