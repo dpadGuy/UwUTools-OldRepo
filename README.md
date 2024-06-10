@@ -27,3 +27,5 @@
 **In the Settings menu, you can enable or disable different options to suit your preferences.**
 
 ![UwUTools_Prototype_NdRYDQOs3u](https://github.com/dpadGuy/UwUTools/assets/164203577/00bc0bee-7bf1-4e3f-8e39-4c7a57145254)
+
+**UwUTools is my first ambitious project that was put alot of love into it !**
