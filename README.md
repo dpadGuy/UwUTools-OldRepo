@@ -1,16 +1,17 @@
-<!-- Grouping the first two images side by side with reduced size -->
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/874f8b68-c623-4b7e-92e1-c4ebc63efadf" alt="UwUTools_Prototype_YjtWHrtr74" width="50%">
-    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/70fe346b-db2b-4015-9998-9926d2f279f2" alt="UwUTools_Prototype_toPicIBsxH" width="50%">
-</div>
+<H1 align="center">UwUTools</H1>
 
-<!-- Grouping the next two images side by side with reduced size -->
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/fdb61989-9c91-4a59-9f6d-62607d123f92" alt="mspaint_zjRamw4n6F" width="50%">
-    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/8ed087a2-defb-4dbf-8831-69a9fdc1dcfc" alt="mspaint_j5wGW5kzLs" width="50%">
-</div>
+**UwUTools is a apps launcher which gives you the ability of downloading apps in one place and also everything portable, which means you can download software withouth requiring admin privileges**
 
-<!-- Centering the last image with reduced size -->
-<div style="text-align: center;">
-    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/274bed45-841a-4f77-820c-0a197a957e3a" alt="mspaint_Uxcxk7MJeu" width="50%">
-</div>
+**The tool can be used everywhere such as your own computer, on a school computer, on your favourite cloud gaming services and much more**
+
+[![Join our Discord Server](https://img.shields.io/badge/Discord-Join%20our%20server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GmnFnC3VkN)
+
+![UwUTools_Prototype_YjtWHrtr74](https://github.com/dpadGuy/UwUTools/assets/164203577/75510e55-bbcb-426e-84ea-5ea6b4f0903a)
+
+<H1 align="center">Apps Section</H1>
+
+**Here you can download apps such as thorium, firefox, qbittorent, gimp and more ! in general the essentials that people want and need, the App Section also comes with the functionality of running any exe that you wish from the run button !**
+
+**If you have an app that isn't here, you can join our discord server and request an app there !**
+
+![UwUTools_Prototype_toPicIBsxH](https://github.com/dpadGuy/UwUTools/assets/164203577/57b86dce-db2b-4a53-8f97-db211836ae58)
