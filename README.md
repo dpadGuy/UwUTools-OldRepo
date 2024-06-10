@@ -22,3 +22,10 @@
 
 ![mspaint_Uxcxk7MJeu](https://github.com/dpadGuy/UwUTools/assets/164203577/859e1485-ffae-4126-95ec-86effbdb544e)
 
+<H1 align="center">Settings Section</H1>
+
+**In the settings menu you can enable or disable different optins as you please !**
+
+![UwUTools_Prototype_NdRYDQOs3u](https://github.com/dpadGuy/UwUTools/assets/164203577/00bc0bee-7bf1-4e3f-8e39-4c7a57145254)
+
+
