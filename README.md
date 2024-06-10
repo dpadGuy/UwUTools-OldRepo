@@ -29,5 +29,4 @@
 ![UwUTools_Prototype_NdRYDQOs3u](https://github.com/dpadGuy/UwUTools/assets/164203577/00bc0bee-7bf1-4e3f-8e39-4c7a57145254)
 
 **UwUTools is my first ambitious project that i've put alot of love into it !**
-
 **If you wish to take take inspiration from the launcher or take some code from it you will need to credit the UwUTools team.**
