@@ -10,6 +10,10 @@
 
 <H1 align="center">Apps Section</H1>
 
+**here you can download apps like thorium, firefox, qbittorent, gimp and more ! in general the essentials that people want and need**
+
+**if you have an app that isn't here, you can join our discord server and request an app there !**
+
 ![UwUTools_Prototype_toPicIBsxH](https://github.com/dpadGuy/UwUTools/assets/164203577/57b86dce-db2b-4a53-8f97-db211836ae58)
 
 
