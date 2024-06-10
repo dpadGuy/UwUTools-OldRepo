@@ -1,7 +1,7 @@
 <!-- Grouping the first two images side by side with reduced size -->
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/874f8b68-c623-4b7e-92e1-c4ebc63efadf" alt="UwUTools_Prototype_YjtWHrtr74" width="45%">
-    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/70fe346b-db2b-4015-9998-9926d2f279f2" alt="UwUTools_Prototype_toPicIBsxH" width="70%">
+    <img src="https://github.com/dpadGuy/UwUTools/assets/164203577/70fe346b-db2b-4015-9998-9926d2f279f2" alt="UwUTools_Prototype_toPicIBsxH" width="50%">
 </div>
 
 <!-- Grouping the next two images side by side with reduced size -->
