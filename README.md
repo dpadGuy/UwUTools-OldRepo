@@ -10,7 +10,7 @@
 
 <H1 align="center">Apps Section</H1>
 
-**Here you can download apps like thorium, firefox, qbittorent, gimp and more ! in general the essentials that people want and need, the App Section also comes with the functionality of running any exe that you wish from the run button !**
+**Here you can download apps such as thorium, firefox, qbittorent, gimp and more ! in general the essentials that people want and need, the App Section also comes with the functionality of running any exe that you wish from the run button !**
 
 **If you have an app that isn't here, you can join our discord server and request an app there !**
 
