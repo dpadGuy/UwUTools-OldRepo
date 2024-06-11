@@ -6,7 +6,7 @@
 
 [![Join our Discord Server](https://img.shields.io/badge/Discord-Join%20our%20server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GmnFnC3VkN)
 
-![UwUTools_Prototype_vzNhty5PJ1](https://github.com/dpadGuy/UwUTools/assets/164203577/d9a4dbe8-9b44-494f-8c65-f9fc9ba98b11)
+![UwUTools_Prototype_gnCrxIKh2B](https://github.com/dpadGuy/UwUTools/assets/164203577/f6866826-b9e2-44c0-82fc-82de01fe5b48)
 
 <H1 align="center">Apps Section</H1>
 
