@@ -1,6 +1,6 @@
 <H1 align="center">UwUTools</H1>
 
-**UwUTools is an application launcher that allows you to download and manage apps in one centralized location. It provides everything in a portable format, eliminating the need for administrative privileges.**
+**UwUTools is an application launcher made fully in C# that allows you to download and manage apps in one centralized location. It provides everything in a portable format, eliminating the need for administrative privileges.**
 
 **This tool can be utilized on various devices, including personal computers, school computers, and cloud gaming services.**
 
